@@ -1,7 +1,7 @@
 import './App.css';
 import { Provider } from 'react-redux';
 import store from './store';
-import Drum from './components/Drum.jsx'
+import Drum from './components/Drum.jsx';
 
 function App() {
   return (

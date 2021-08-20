@@ -1,3 +1,4 @@
+import React from "react";
 import { connect } from 'react-redux';
 import DrumButton from './DrumButton.jsx';
 import { buttonsOne, buttonsTwo } from '../store.js';
